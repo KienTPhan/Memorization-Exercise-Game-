@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>886562239293-ibdotn7t69o3ppkgg854ott2hfbo4c5v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.886562239293-ibdotn7t69o3ppkgg854ott2hfbo4c5v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAD73oceIIndrWTxy12q-ekCSLbpDtp2qo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>886562239293</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>KienPhan.Memorization-Exercise-Game</string>
+	<key>PROJECT_ID</key>
+	<string>rememberme-b9975</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rememberme-b9975.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:886562239293:ios:be9568898bec8890</string>
+	<key>DATABASE_URL</key>
+	<string>https://rememberme-b9975.firebaseio.com</string>
+</dict>
+</plist>
